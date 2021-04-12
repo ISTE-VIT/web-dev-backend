@@ -22,7 +22,7 @@
   
  ## Relevant repository link
  - <a href="https://github.com/ISTE-VIT/web-dev-react-app" target="_blank">WebDev React App</a>
- #### Starter repositories
+ #### Starter Pack repositories
  - <a href="https://github.com/ISTE-VIT/web-dev-react-app-starter" target="_blank">React App Starter</a>
  - <a href="https://github.com/ISTE-VIT/web-dev-backend-starter" target="_blank">Backend Starter</a>
  
