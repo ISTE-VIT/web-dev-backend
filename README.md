@@ -14,8 +14,9 @@
   - Postman
 
 ## Topics Covered
-  - Basics of Node.js
+  - Basic concepts of Node
   - HTTP methods and Status Code
+  - Basics of Node.js
   - Mongo model schema 
   - Connecting to MongoDB database using Mongoose
   - Creating routes
