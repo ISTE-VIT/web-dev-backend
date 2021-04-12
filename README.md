@@ -9,7 +9,6 @@
 <b>A one day workshop on WebDev under Horizon'21
 
 ## Tech Stack
-  - VS Code
   - MongoDB
   - Node.js
   - Postman
@@ -22,10 +21,10 @@
   - Creating routes
   
  ## Relevant repository link
- - <a href="https://istevit.in/" target="_blank">WebDev React App</a>
+ - <a href="https://github.com/ISTE-VIT/web-dev-react-app" target="_blank">WebDev React App</a>
  #### Starter repositories
- - <a href="https://istevit.in/" target="_blank">React App Starter</a>
- - <a href="https://istevit.in/" target="_blank">Backend Starter</a>
+ - <a href="https://github.com/ISTE-VIT/web-dev-react-app-starter" target="_blank">React App Starter</a>
+ - <a href="https://github.com/ISTE-VIT/web-dev-backend-starter" target="_blank">Backend Starter</a>
  
 <p align="center">
 	Made with :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
